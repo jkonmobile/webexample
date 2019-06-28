@@ -95,6 +95,9 @@ g/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
    <groupId>com.google.appengine</groupId>
    <artifactId>appengine-maven-plugin</artifactId>
    <version>1.9.76</version>
+	     <configuration>
+      <version>1.0.0</version>
+   </configuration>
 </plugin>
       <plugin>
         <artifactId>maven-clean-plugin</artifactId>
