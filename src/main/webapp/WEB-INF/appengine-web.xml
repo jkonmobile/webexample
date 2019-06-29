@@ -3,5 +3,5 @@
   <application>_your_app_id_</application>
   <runtime>java8</runtime>
   <threadsafe>true</threadsafe>
-  <version>1.0.0</version>
+  <version>alpha-001</version>
 </appengine-web-app>
