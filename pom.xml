@@ -96,7 +96,7 @@ g/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
    <artifactId>appengine-maven-plugin</artifactId>
    <version>1.9.76</version>
 	     <configuration>
-      <version>1.0.0</version>
+      <version>alpha-001</version>
    </configuration>
 </plugin>
       <plugin>
